@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Harold Ponte da Costa
 ==============================================================================================================================================
 
-README.md# 💫 About Me:
+## 💫 About Me:
 I’m a software engineering student and developer with a strong focus on backend development, clean architecture, and code quality. <br>I mainly work with C#/.NET and TypeScript, and enjoy building well-structured APIs and scalable systems. <br>Alongside my studies, I do freelancing work and build useful, modern websites for anyone who needs one. <br>I like turning complex problems into clear, practical solutions.
 
 
